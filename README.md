@@ -28,8 +28,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
