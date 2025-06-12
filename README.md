@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Software Engineering Student (2nd year)<br>- 3rd period of the 2nd year - Univille (BR)<br>- Looking for opportunities to learn and evolve!!</p>
+<p align="left">- 🎓Software Engineering Student (2nd year)<br>- 3rd period of the 2nd year - Univille (BR)<br>- 🛠Looking for opportunities to learn and evolve!!</p>
 
 ###
 
