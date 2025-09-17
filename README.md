@@ -49,10 +49,3 @@
 
 ###
 
-<h2 align="left">Stats</h2>
-
-###
-
-![Snake animation](https://github.com/Eikichi2506/Eikichi2506/blob/output/github-contribution-grid-snake.svg)
-
-###
